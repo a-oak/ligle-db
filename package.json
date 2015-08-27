@@ -1,0 +1,23 @@
+{
+  "name": "ligle-db",
+  "version": "0.3.0",
+  "description": "database module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "ligle-util": "~0.3.0",
+    "mongodb": "^2.0.35"
+  },
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://git.hijack.moe/crackhopper/ligle-db.git"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "crackhopper",
+  "license": "ligle"
+}
