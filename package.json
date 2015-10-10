@@ -4,15 +4,16 @@
   "description": "database adapter reserved",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "grunt test"
   },
   "dependencies": {
-    "ligle-util": "~0.3.0",
+    "ligle-util": "~0.4.0",
     "mongodb": "^2.0.35"
   },
+  "homepage": "https://github.com/a-oak/ligle-db",
   "repository": {
     "type": "git",
-    "url": "https://git.hijack.moe/crackhopper/ligle-db.git"
+    "url": "https://github.com/a-oak/ligle-db.git"
   },
   "keywords": [
     "db"
